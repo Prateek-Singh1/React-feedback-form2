@@ -1,0 +1,51 @@
+body {
+  background-color: cyan;
+}
+
+.showDataStyle {
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  background-color: darkcyan;
+  color: rgb(255, 210, 126);
+  text-shadow: 2px 2px 5px black;
+}
+form {
+  height: 230px;
+  width: 500px;
+  margin-left: 520px;
+  background-color: turquoise;
+}
+label {
+  color: white;
+}
+.username {
+}
+
+button {
+  color: white;
+  background-color: rgb(25, 195, 252);
+  border: none;
+  height: 30px;
+  width: 100px;
+  box-shadow: 2px 2px 10px rgb(0, 115, 160);
+}
+
+input {
+  margin-left: 40px;
+  border: none;
+  border-radius: 5px;
+  height: 30px;
+  width: 300px;
+}
+
+.showDataStyle {
+  background-color: rgb(0, 84, 99);
+  color: white;
+  border-radius: 15px;
+  width: 500px;
+  margin-left: 520px;
+  margin-top: 10px;
+}
